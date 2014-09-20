@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="src/test"/>
+	<classpathentry kind="lib" path="lib/ehcache-1.2.3/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/c3p0-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/hibernate3.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-3.1/jta.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-attributes-api.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-attributes-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-codec.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-configuration.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-digester.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-io.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-lang.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-pool.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/commons-validator.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-commons/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="lib/jakarta-log4j-1.2.9/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="lib/java_memcached/java_memcached-release_1.5.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="web/WEB-INF/classes"/>
+</classpath>
