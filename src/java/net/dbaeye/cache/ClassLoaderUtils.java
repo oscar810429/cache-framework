@@ -15,7 +15,7 @@ import java.net.URL;
  * </p>
  *
  * @author Zhang Songfu
- * @version $Id: ClassLoaderUtils.java 35 2010-06-01 01:53:10Z zhangsf $
+ * @version $Id$
  */
 public class ClassLoaderUtils {
 
