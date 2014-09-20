@@ -15,7 +15,7 @@ public class TestCache {
 		
 		if(testCache.get(CACHE_KEY_PREFIX+"test")==null){
 			testCache.put(CACHE_KEY_PREFIX +"test","zhangsongfufdfdfdfdfdfdfd");
-			//System.out.println(testCache.get(CACHE_KEY_PREFIX +"test"));
+			System.out.println(testCache.get(CACHE_KEY_PREFIX +"test"));
 		}else{
 			System.out.println(testCache.get(CACHE_KEY_PREFIX +"test"));
 		}
